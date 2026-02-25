@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "リンちゃんなう！ ver.2025（feat. 巡音ルカ、初音ミク、鏡音リン、初音ミク&巡音ルカ&鏡音リン）",
+  "base_artist": "オワタP",
+  "createdAt": "2026-02-25T16:39:30.273468Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "リンちゃんなう!",
+      "artist": "オワタP",
+      "has_synced": false,
+      "path": "select/01_リンちゃんなう!_オワタP.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "リンちゃんなう！",
+      "artist": "オワタP",
+      "has_synced": false,
+      "path": "select/02_リンちゃんなう!_オワタP.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "リンちゃんなう! (フリーダムVer.)",
+      "artist": "__(アンダーバー)",
+      "has_synced": true,
+      "path": "select/03_リンちゃんなう!_(フリーダムVer.)_(アンダーバー).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "リンちゃんなう！",
+      "artist": "Owata-P",
+      "has_synced": false,
+      "path": "select/04_リンちゃんなう!_Owata-P.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "リンちゃんなう！(PandaBoY remix)",
+      "artist": "オワタP",
+      "has_synced": false,
+      "path": "select/05_リンちゃんなう!(PandaBoY_remix)_オワタP.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "レンくんなう!(原曲:リンちゃんなう!)",
+      "artist": "96猫",
+      "has_synced": false,
+      "path": "select/06_レンくんなう!(原曲_リンちゃんなう!)_96猫.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "リンちゃんなう!",
+      "artist": "オワタP",
+      "has_synced": false,
+      "path": "select/pl_01_リンちゃんなう!_オワタP.txt"
+    }
+  ]
+}
